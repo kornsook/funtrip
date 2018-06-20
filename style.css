@@ -67,10 +67,9 @@ a.button p {
 div.blog {
 	display: inline-block;
 	border: 4px #41bbf4 solid;
-	border-style: thick;
 	padding:5px;
 	background-color: white;
-	overflow:auto;
+	overflow:hidden;
 	margin: 10px 5px 0px 5px;
 	width: 30%;
 	border-radius:10px;
@@ -119,7 +118,6 @@ div.content {
 #news, #country, #att{
 	position:relative;
 	border: 4px #C2E9E9 solid;
-	border-style: thick;
 	border-radius: 25px;
 	padding:10px;
 	background-color: #E8FBFB;

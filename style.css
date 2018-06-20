@@ -109,7 +109,7 @@ div.content {
 }
 
 .content img {
-	width:auto;
+	width:150px;
 	height: 100px;
 	float:left;
 	margin-right: 10px;
